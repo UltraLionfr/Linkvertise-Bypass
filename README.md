@@ -4,9 +4,9 @@
 
 ## The modules to be installed :
 
-```pip install gratient```
+[Gratient](https://pypi.org/project/gratient/) : ```pip install gratient```
 
-```pip install requests```
+[Requests](https://pypi.org/project/requests/) : ```pip install requests```
 
 ## How does it work?
 You just have to launch the script and put your link as shown on the image :
